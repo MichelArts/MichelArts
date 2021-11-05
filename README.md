@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **3D and Minecraft development**
 
-- ⚡ Fun fact **I took too many pizza to code.**
+- ⚡ Fun fact **I took too many pizza while coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
