@@ -28,7 +28,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/michelarts"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="michelarts" /></a></p><br><br>
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michelarts&show_icons=true&locale=en" alt="michelarts" /></p>
-
+<p><img align="left" src="https://vercel-stats-iqtjuhwm7-stats-michels.vercel.app/api/top-langs?username=michelarts&&exclude_repo=vercel-stats&show_icons=true&locale=en&layout=compact" alt="michelarts" /></p>
+<p>&nbsp;<img align="center" src="https://vercel-stats-iqtjuhwm7-stats-michels.vercel.app/api?username=michelarts&show_icons=true&locale=en" alt="michelarts" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michelarts&" alt="michelarts" /></p>
