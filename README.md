@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/michelarts4" target="blank"><img src="https://img.shields.io/twitter/follow/michelarts4?logo=twitter&style=for-the-badge" alt="michelarts4" /></a> </p>
 
-- 🔭 I’m currently working on **MysticVision**
+- 🔭 I’m currently working on **MysticVision and TheMagicNetwork**
 
 - 🌱 I’m currently learning **Docker & Helm**
 
